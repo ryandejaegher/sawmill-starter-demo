@@ -1,4 +1,26 @@
 ---
 label: Text Block Repeater
 hide_body: false
-fields: []
+fields:
+- name: text_block
+  type: field_group_list
+  fields:
+  - name: text_block_title
+    type: text
+    config:
+      required: false
+    label: Text Block Title
+  - name: text_block_body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Text Block Body
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Text Block

@@ -11,6 +11,9 @@ size = "Big"
 subheading = "A Modular Layout Builder for Hugo and [Forestry.io](https://forestry.io)"
 template = "hero-section"
 [[blocks]]
+hero_headline = "FRIEND!!!"
+template = "headlines"
+[[blocks]]
 background_image = ""
 background_style = "Light"
 button_text = ""

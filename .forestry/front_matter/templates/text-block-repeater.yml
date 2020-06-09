@@ -21,6 +21,6 @@ fields:
     label: Text Block Body
   config:
     min: 
-    max: 
+    max: 3
     labelField: 
   label: Text Block

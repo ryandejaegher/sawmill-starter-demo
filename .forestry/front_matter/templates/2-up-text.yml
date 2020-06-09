@@ -1,4 +1,28 @@
 ---
 label: 2 Up Text
 hide_body: false
-fields: []
+fields:
+- name: text_title_one
+  type: text
+  config:
+    required: false
+  label: Text Title One
+- name: text_title_two
+  type: text
+  config:
+    required: false
+  label: Text Title Two
+- name: text_body_one
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text Body One
+- name: text_body_two
+  type: text
+  config:
+    required: false
+  label: Text Body Two

@@ -1,6 +1,6 @@
 ---
 label: Text Block Repeater
-hide_body: false
+hide_body: true
 fields:
 - name: text_block
   type: field_group_list

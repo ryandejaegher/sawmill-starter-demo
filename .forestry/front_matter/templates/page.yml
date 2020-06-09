@@ -14,5 +14,6 @@ fields:
   - media-feature
   - hero-section
   - 2-up-text
+  - text-block-repeater
 pages:
 - content/_index.md

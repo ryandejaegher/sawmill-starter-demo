@@ -17,5 +17,4 @@ fields:
   - 2-up-text
   - text-block-repeater
 pages:
-- content/Articles/the-article.md
 - content/_index.md

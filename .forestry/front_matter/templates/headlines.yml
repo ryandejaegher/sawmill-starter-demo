@@ -1,4 +1,9 @@
 ---
 label: Headlines
 hide_body: false
-fields: []
+fields:
+- name: hero_headline
+  type: text
+  config:
+    required: false
+  label: Hero Headline

@@ -1,5 +1,5 @@
 +++
-title = "Sawmill: A Modular Layout Builder for Hugo and Forestry.io"
+title = "Sawmilddl: A Modular Layout Builder for Hugo and Forestry.io"
 type = "page"
 [[blocks]]
 background_image = "/uploads/2018/04/20/logs-splash.png"
@@ -11,7 +11,7 @@ size = "Big"
 subheading = "A Modular Layout Builder for Hugo and [Forestry.io](https://forestry.io)"
 template = "hero-section"
 [[blocks]]
-hero_headline = "FRIEND!!!"
+hero_headline = "Cool"
 template = "headlines"
 [[blocks]]
 background_image = ""

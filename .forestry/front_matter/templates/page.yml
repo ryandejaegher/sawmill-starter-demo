@@ -13,5 +13,6 @@ fields:
   - call-to-action
   - media-feature
   - hero-section
+  - 2-up-text
 pages:
 - content/_index.md

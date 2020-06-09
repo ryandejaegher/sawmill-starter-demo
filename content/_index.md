@@ -12,7 +12,7 @@ subheading = "A Modular Layout Builder for Hugo and [Forestry.io](https://forest
 template = "hero-section"
 [[blocks]]
 background_image = ""
-background_style = "Brand Color"
+background_style = "Light"
 button_text = ""
 button_url = ""
 heading = "Features"
@@ -62,5 +62,11 @@ content = ""
 heading = "Let's Get Started"
 subheading = ""
 template = "call-to-action"
+[[blocks]]
+template = "2-up-text"
+text_body_one = "I'm the content of the first body feature"
+text_body_two = "I'm the content of the second body feature"
+text_title_one = "Feature One"
+text_title_two = "Feature Two"
 
 +++

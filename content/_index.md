@@ -68,5 +68,16 @@ text_body_one = "I'm the content of the first body feature"
 text_body_two = "I'm the content of the second body feature"
 text_title_one = "Feature One"
 text_title_two = "Feature Two"
+[[blocks]]
+template = "text-block-repeater"
+[[blocks.text_block]]
+text_block_body = "This is truly fascinating"
+text_block_title = "Amazing"
+[[blocks.text_block]]
+text_block_body = "SAme here"
+text_block_title = "Wow I'm the second FEature content"
+[[blocks.text_block]]
+text_block_body = "I'm the First Feature content"
+text_block_title = "Wow Feature One"
 
 +++
